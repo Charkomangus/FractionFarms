@@ -1,0 +1,213 @@
+{
+  "_meta": {
+    "maxChars": {      
+      "PlayGame": 10,
+      "Options": 10,
+      "Credits": 10,
+      "Quit": 10,
+      "Back": 10,
+      "MusicVolume": 20,
+      "SoundVolume": 10,
+      "Narration": 10,
+      "Developers": 20,
+      "GameName": 20,
+      "Proudly" : 30,
+      "QuitPopup" : 40,
+      "Yes" : 10,
+      "No" : 10,
+      "Okay" : 10,
+      "Help": 10,
+      "Menu": 10,
+      "Sound": 10      
+    }
+  },
+  "en": {
+    "PlayGame": "Play Game",
+    "Options": "Options",
+    "Credits": "Credits",
+    "Quit": "Quit",
+    "Back": "Back",
+    "MusicVolume": "Music Volume",
+    "SoundVolume": "Sound Volume",
+    "Narration": "Narration",
+    "Developers": "Developers",
+    "Names": "Charalampos & Agnieszka Koundourakis",
+    "GameName": "Fraction Farms",
+    "Proudly": "Proudly presented by",
+    "QuitPopup": "Are you sure you want to quit the game?",
+    "Yes" : "Yes",
+    "No" : "No",
+    "Okay" : "Okay",
+    "Help": "Help",
+    "Menu": "Menu",
+    "Sound": "Sound",
+    "CONFIRM": "CONFIRM",
+    "WrongDenominator": "Nope, that's the denominator! The numerator is on the top.",
+    "WrongNumerator": "Nope, that's the numerator! The denominator is on the bottom.",
+
+    "Level1Dialogue1Sentence0": "Why hello there young whippersnapper! Welcome to Fraction Farms!",
+    "Level1Dialogue1Sentence1": "So good of you to volunteer to help us here for the whole day.",
+    "Level1Dialogue1Sentence2": "Don't worry! We won’t ask you to clean the barn or anything like that. It's your counting skills that we really need.",
+    "Level1Dialogue1Sentence3": "Okay let's start! Follow me to the cow pasture.",
+    "Level1Dialogue2Sentence0": "Here we are! Did you know that every day a cow spends 8 hours eating grass, 8 hours chewing it and 8 hours sleeping?",
+    "Level1Dialogue2Sentence1": "That splits the day into 3 equal parts. What a great life!",
+    "Level1Dialogue3Sentence0": "Now, for your first task. Can you help us get the cows back to their fields? Don't worry if you get confused, Just click the help button.",
+    "Level1Dialogue4Sentence0": "Our herd has 12 cows in it. There are three fields and each of them should have the same amount of cows. Can you move cows to their field?",
+    "Level1Dialogue4Sentence1": "Just click on the cow that you want to move and than click at the field that it should go to.",
+    "Level1Mistake1": "Woah there. That's too many cows in one enclosure. They don’t like being overcrowded!",
+    "Level1Mistake2": "Careful. There needs to be the same number of cows in each enclosure.",
+    "Level1Mistake3": "Those cows are looking crowded. Try and put the same number of cows in every enclosure.",
+    "Level1Loss": "Uggh, that's not exactly right. Theres 12 cows and 3 enclosure. So we need 4 cows per enclosure! Anyway let's move on and check in the sheep.",
+    "Level1MissionInfo": "Get the cows into the enclosures. There should be an equal amount of cows in each enclosure.",
+    "Level1Win": "Good job! Now that the cows are sorted let's check up on the sheep!",
+    "Level1Help1" : "You can select a cow by clicking on it. Once it's clicked it will turn yellow. You can then click on an enclosure and the cow will walk there.",
+    "Level1Help2" : "Count the cows and the enclosures. So now we need to divide the number of cows by the amount of enclosures and that’s how many cows need to be in one!",
+
+    "Level2Dialogue1Sentence0": "Here is one of our sheep flocks. This one in particular has 5 sheep in it. So 5 sheep together make 1 flock.",
+    "Level2Dialogue2Sentence0": "Each sheep here is a 1/5 of the flock. That just means that each sheep is 1 piece out of the 5 pieces that create one whole flock.",
+    "Level2Dialogue3Sentence0": "Here is your task. Just take 3/5 of this flock to the nearby field so they eat some grass.",
+    "Level2Dialogue3Sentence1": "Just click on the sheep that you want to move and than click at the field that it should go to.",
+    "Level2Dialogue4Sentence0": "Well done! That's the right amount of sheep on the field.",
+    "Level2Dialogue4Sentence1": "As you could see every time you moved a sheep the fraction on the top was being updated. It was a representation of the flock!",
+    "Level2Dialogue5Sentence0": "A fraction is made of the numerator which is on the top and denominator which is on the bottom.",
+    "Level2Dialogue6Sentence0": "Can you tell me which one is the numerator in this fraction? Just click on the number you think is right.",
+    "Level2Dialogue7Sentence0": "That is correct! Now tell me which is the denominator in the this fraction?",
+
+    "Level2Dialogue8Sentence0": "Good job! So what you were essentially doing is moving one sheep at a time. For example, one sheep from a flock of 5 can be written as 1/5. ",
+    "Level2Dialogue8Sentence1": "When a fraction has the number 1 as it's numerator it is called a unit fraction.",
+
+    "Level2Dialogue9Sentence0": "That's because it is one piece of the whole, in this case one sheep from the flock.",
+
+    "Level2Dialogue10Sentence0": "So if you take 5 of these units you get 1 whole flock!",
+
+    "Level2Dialogue11Sentence0": "Okay, looks like you get it. Let's move to the next flock. Can you move 2/8 of this flock out to the field?",
+    "Level2Dialogue12Sentence0": "Excellent! Finally, move 4/6 of this flock to the field.",
+
+
+
+    "Level2Dialogue13Sentence0": "Brilliant! Now let’s take that opportunity to learn something new!",
+    "Level2Dialogue14Sentence0": "Moving 3 sheep out of  a flock of 5 can be written as a fraction as you saw earlier.",
+    "Level2Dialogue14Sentence1": "From your previous math lessons you know that 1/5 + 1/5 + 1/5 = 3/5.",
+    "Level2Dialogue14Sentence2": "And that when we add fractions with the same denominator we only add the numerators on the top.",
+    
+    "Level2Dialogue15Sentence0": "The same thing applies for multiplication with whole numbers.",
+    "Level2Dialogue15Sentence1": "When multiplying a fraction by a whole number we just multiply the numerator by that number. So we can write it down like this!",
+    "Level2Dialogue15Sentence2": "Thanks to that we won’t have to write out each unit fraction anymore. That saves us a lot of writing!",
+
+    "Level2Win": "Good job! I think you are ready for our next task! Lets collect some eggs!",
+    "Level2MissionInfo1": "Move 3/5 of this flock to the nearby field.",
+    "Level2MissionInfo2": "Move 2/8 of this flock to the nearby field.",
+    "Level2MissionInfo3": "Move 4/6 of this flock to the nearby field.",
+    "Level2NotEnough": "Nope, that's not the right amount of sheep.",
+    "Level2TooMany": "That's way too many sheep!",    
+    "Level2Help1" : "Just remember that the numerator is the amount of units, in this case sheep of a whole. So just move that amount.",
+
+    
+    "Level3Dialogue1Sentence0": "Okay, time to collect some eggs. Now chickens can be a bit trickier than other animals as we need to figure out which one has eggs.",
+    "Level3Dialogue2Sentence0": "Take a look at this axis. Using this will make our life much easier.",
+    "Level3Dialogue3Sentence0": "If you want to multiply 1/3 by 1 it is still 1/3. Which is this post here.",
+    "Level3Dialogue4Sentence0": "When you want to multiply 1/3 by 2  it becomes equal to 2/3. That's the next post.", 
+    "Level3Dialogue5Sentence0": "And when you want to multiply 1/3 by 3  it becomes equal to 3/3 which can also be written as 1. So it would be this post.", 
+    "Level3Dialogue6Sentence0": "So if we wanted to multiply 1/3 by 4 which post would you press?",
+    "Level3Dialogue7Sentence0": "Nicely done! What if we multiplied 1/3 by 7 this time. Which post would you press?",
+    "Level3Dialogue8Sentence0": "It seems like you understand the axis now. Right, let's find some eggs!",
+    "Level3Dialogue9Sentence0": "These ladies are quite shy so we need to figure out which one has laid eggs. We can use our fractions skills to get the eggs.",
+    "Level3Dialogue9Sentence1": "Now take a look at the equation we need to solve. Once you have it, select the correct chicken!",
+
+
+    "Level3Dialogue10Sentence0": "Nice! Lets try another one!",
+    "Level3Dialogue11Sentence0": "That's right! Now that you've chosen the correct chicken can you solve the equation?",
+
+    "Level3DialogueExtaSentence0": "Nicely done! Take a look at the axis.",
+    "Level3DialogueExtaSentence1": "When you are adding 1/4 six times you cross the number 1 post and you stop at the 2/4 after it.",
+    "Level3DialogueExtaSentence2": "That means that 6 x 1/4 is equal to 1 and 2/4. Makes sense to me! The equation above will show you what it looks like.",
+        
+
+    "Level3Dialogue12Sentence0": "Keep that in mind while we go ahead. Now, let’s find some more eggs! Click on the correct chicken!",
+    "Level3Dialogue13Sentence0": "There's the egg! Now let's solve the equation.",
+    "Level3Dialogue14Sentence0": "That's correct! Can you solve this equation?",
+
+
+
+
+    "Level3Dialogue15Sentence0": "You are a natural. Lets try another one!",
+    "Level3Dialogue16Sentence0": "There's that little egg! Now for the equation.",
+    "Level3Dialogue17Sentence0": "Well done! Let's solve this equation.",
+
+
+    "Level3Dialogue18Sentence0": "Absolutely awesome! Think we are close to the end. Let's find this chicken!",
+    "Level3Dialogue19Sentence0": "Excellent! Let's solve that equation.",
+    "Level3Dialogue20Sentence0": "You are the best helper I've ever had. Let's solve that equation.",
+
+
+
+    "Level3Mistake": "Nope, that's not it. Remember, the equation will give you the hint needed to find the correct answer.",  
+    "Level3Loss": "The answer is actually this!",
+    "Level3Win": "Amazing, thats all the eggs gathered! Phew, I'm getting tired. One last job now, let's check on the pigs.",
+    "Level3Help1" : "The equation will give you the hints needed to find the correct answer. And you can use the chicken to figure out the equation!",
+    "Level4Help1" : "Remember, the number of the baskets is the whole number we are using.",
+    "Level4Help2" : "The numerator is the amount of food we want to put in the basket and the denominator is how many spaces the basket has!",
+
+    "Level4Dialogue1Sentence0": "Welcome to the pig shed! It's time to prepare some food for our piggies!",
+    "Level4Dialogue1Sentence1": "Animals need to eat specific amounts of food every day and to measure them we are gonna use our knowledge of multiplying fractions.",
+    "Level4Dialogue2Sentence0": "Here you can see the feeding basket. We fill this up with food for the animals.",
+    "Level4Dialogue2Sentence1": "Can you fill the basket with 1/3 of carrots? Just point at the bag of carrots and at the parts of the basket that should be filled up.",
+    "Level4MissionInfo1": "Fill the basket with 1/3 of carrots.",
+    "Level4Dialogue3Sentence0": "Good job! Now the basket has 1/3 carrots and is 2/3 empty.",
+    "Level4Dialogue3Sentence1": "Can you fill both of these baskets with 1/3 carrots aswell? Observe how the calcualtion above will change.",
+    "Level4MissionInfo2": "Fill both baskets with 1/3 of carrots.",
+    "Level4Dialogue4Sentence0": "Great! We now have 2 baskets with 1/3 carrots. We can write this as 2 x 1/3.",
+    "Level4Dialogue4Sentence1": "Okay, put 1/3 carrots in all three baskets now.",
+    "Level4MissionInfo3": "Fill all three baskets with 1/3 of carrots.",
+    "Level4Dialogue5Sentence0": "Nice! Notice that in this scenario the multiplier is actually just the number of baskets!",
+    "Level4Dialogue5Sentence1": "The fraction is just the amount of food you need to put in each basket!",
+    "Level4Dialogue6Sentence0": "Okay, let's try a larger basket. Fill this one up with 2/9 of carrots.",
+    "Level4MissionInfo4": "Fill this basket up with 2/9 of carrots.",
+    "Level4Dialogue7Sentence0": "Looks like you got it! Fill these baskets up with 4/9 of carrots please.",
+    "Level4MissionInfo5": "Fill all hese baskets up with 4/9 of carrots.",
+    "Level4Dialogue8Sentence0": "Good job! Can you fill these 2 baskets with 3/9 apples now?", 
+    "Level4MissionInfo6": "Fill both baskets with 3/9 apples.",
+    "Level4Dialogue9Sentence0": "Good job! Now, using what you have done, can you solve the equation up there?",
+    "Level4Dialogue10Sentence0": "Okay, let's mix things up. Fill these 4 small baskets with 3/4 apples!",
+    "Level4MissionInfo7": "Fill all four baskets with 3/4 apples.",
+    "Level4Dialogue11Sentence0": "That's exactly right! Now solve the equation above.",
+    "Level4Dialogue12Sentence0": "Perfect! Let's delve into cabbage now. Put 2/8 of cabbage in each of these 3 baskets.",
+    "Level4MissionInfo8": "Fill all three baskets with 2/8 cabbages.",
+    "Level4Dialogue13Sentence0": "And the equation?",
+
+
+
+    "Level4Dialogue14Sentence0": "Hoo boy! Now fill all 3 of these baskets with 3/8 apples!",
+    "Level4MissionInfo9": "Fill all 3 of these baskets with 3/8 apples.",
+    "Level4Dialogue15Sentence0": "One equation coming up I assume?",
+
+
+
+    "Level4Dialogue16Sentence0": "Not to worry if you are getting tired, we are almost finished!",
+    "Level4Dialogue16Sentence1": "Fill these baskets with 5/16 of apples.",    
+    "Level4MissionInfo10": "Fill these baskets with 5/16 of apples",
+    "Level4Dialogue17Sentence0": "Amazing! Let's do that equation now!",
+
+
+    "Level4Dialogue18Sentence0": "That's it! We did it! That should be more than enough food for all the pigs!",
+    "Level4Dialogue18Sentence1": "Oh goodness it's amost evening. That means your day of voluntering is almost over.",
+    "Level4Dialogue18Sentence2": "Thank you so much for all your hard work!",
+    "Level4NeedFood": "You need to click on the food you want to use first. Your hand is empty just now!",
+    "Level4Mistake": "Nope, that's not it. Remember, to look at the equation and the basket.",  
+    "Level4TooMany": "That's way too much!",
+    "Level4WrongFood": "That's the wrong type of food."
+    
+   },
+  "es": {
+   
+  },
+  "zh": {
+
+  },
+  "jp": {
+   
+  },
+  "ru": {
+  
+  }
+}

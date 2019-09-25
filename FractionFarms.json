@@ -1,0 +1,20 @@
+{
+"companyName": "Quiet Spaceman",
+"productName": "Mathland",
+"productVersion": "1",
+"dataUrl": "FractionFarms.data.unityweb",
+"wasmCodeUrl": "FractionFarms.wasm.code.unityweb",
+"wasmFrameworkUrl": "FractionFarms.wasm.framework.unityweb",
+"asmCodeUrl": "FractionFarms.asm.code.unityweb",
+"asmMemoryUrl": "FractionFarms.asm.memory.unityweb",
+"asmFrameworkUrl": "FractionFarms.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.2.6f1"
+}

@@ -1,0 +1,72 @@
+{
+  "_meta": {
+    "maxChars": {      
+      "PlayGame": 10,
+      "Options": 10,
+      "Credits": 10,
+      "Quit": 10,
+      "Back": 10,
+      "MusicVolume": 20,
+      "SoundVolume": 10,
+      "Narration": 10,
+      "Developers": 20,
+      "GameName": 20,
+      "Proudly" : 30,
+      "QuitPopup" : 40,
+      "Yes" : 10,
+      "No" : 10,
+      "Okay" : 10,
+      "Help": 10,
+      "Menu": 10,
+      "Level1Sentence0" : 100
+
+    }
+  },
+  "en": {
+    "PlayGame": "Play Game!",
+    "Options": "Options",
+    "Credits": "Credits",
+    "Quit": "Quit",
+    "Back": "Back",
+    "MusicVolume": "Music Volume",
+    "SoundVolume": "Sound Volume",
+    "Narration": "Narration",
+    "Developers": "Developers",
+    "GameName": "HeeHaw in the see saw",
+    "Proudly": "Proudly presented by",
+    "QuitPopup": "Are you sure you want to quit the game?",
+    "Yes" : "Yes",
+    "No" : "No",
+    "Okay" : "Okay",
+    "Help": "Help",
+    "Menu": "Menu",
+    "Level1Sentence0" : "Hello there! Welcome to the Farm! So good of you to come and help us here for a whole day! But no worries! We won’t ask you to clean cow sheds or anything like that. Your thinking and counting skills is what we really need."
+  },
+  "es": {
+    "PlayGame": "¡Bienvenido!",
+    "Options": "¿Estás listo para jugar?",
+    "Credits": "¡Gran trabajo!",
+    "Quit": "Presione el botón 'siguiente' para continuar."
+  },
+  "zh": {
+    "welcome": "欢迎！",
+    "readyToPlay": "你准备好玩吗",
+    "greatJob": "做得好！",
+    "pressContinue": "按“下一步”按钮继续。",
+    "onePlusOne": "一+一=二"
+  },
+  "jp": {
+    "welcome": "ようこそ!",
+    "readyToPlay": "あなたは遊ぶ準備ができていますか？",
+    "greatJob": "よくやった！",
+    "pressContinue": "続行するには '次へ'ボタンを押してください。",
+    "onePlusOne": "1 + 1 = 2"
+  },
+  "ru": {
+    "welcome": "Добро пожаловать!",
+    "readyToPlay": "Вы готовы играть?",
+    "greatJob": "Отличная работа!",
+    "pressContinue": "Нажмите следующую кнопку, чтобы продолжить.",
+    "onePlusOne": "один + один"
+  }
+}
